@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Duc Minh
-- 👀 I’m interested in sports, games and absolutely! coding
-- 🌱 I’m currently learning software engineering at VietNam national university
+- 👀 I’m interested in sports, games 
+- 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on mobile apps
 - 📫 Come
 
