@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a sophomore at the University of Information Technology - Vietnam National University (UIT - VNU-HCM)<br>🌱 I’m currently learning software engineering<br>⚡ I’m working as a Member of the Executive Committee of HoChiMinh Communist Youth Union of the Faculty of Software Engineering<br>🤝 I’m focusing on Web and Mobile Development<br>💬 I love playing soccer and coding in my leisure time<br>
+🔭 I’m currently a junior at the University of Information Technology - Vietnam National University (UIT - VNU-HCM)<br>🌱 I’m currently learning software engineering<br>⚡ I’m working as a Member of the Executive Committee of HoChiMinh Communist Youth Union of the Faculty of Software Engineering<br>🤝 I’m focusing on Web and Mobile Development<br>💬 I love playing soccer and coding in my leisure time<br>
 
 
 ## 🌐 Socials:
